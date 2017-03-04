@@ -19,7 +19,7 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
-		81634C8F1E4CAB780099C732 /* IterationExamples */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = IterationExamples; sourceTree = BUILT_PRODUCTS_DIR; };
+		81634C8F1E4CAB780099C732 /* IterationExamples */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; name = IterationExamples; path = /Users/russellgordon/Documents/Repositories/ICS2O/IterationExamples/build/Debug/IterationExamples; sourceTree = "<absolute>"; };
 		81634C991E4CAB890099C732 /* Iteration Examples.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Iteration Examples.playground"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -38,16 +38,7 @@
 			isa = PBXGroup;
 			children = (
 				81634C911E4CAB780099C732 /* IterationExamples */,
-				81634C901E4CAB780099C732 /* Products */,
 			);
-			sourceTree = "<group>";
-		};
-		81634C901E4CAB780099C732 /* Products */ = {
-			isa = PBXGroup;
-			children = (
-				81634C8F1E4CAB780099C732 /* IterationExamples */,
-			);
-			name = Products;
 			sourceTree = "<group>";
 		};
 		81634C911E4CAB780099C732 /* IterationExamples */ = {
@@ -103,7 +94,7 @@
 				en,
 			);
 			mainGroup = 81634C861E4CAB780099C732;
-			productRefGroup = 81634C901E4CAB780099C732 /* Products */;
+			productRefGroup = 81634C861E4CAB780099C732;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
@@ -248,6 +239,7 @@
 				81634C981E4CAB780099C732 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
